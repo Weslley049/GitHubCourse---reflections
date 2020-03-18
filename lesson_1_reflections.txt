@@ -1,0 +1,34 @@
+Como a visualização de um diff entre duas versões de um arquivo o ajudou a ver o bug que
+foi introduzido?
+
+    Por meio de seções, cada sessão contém as linhas de código alteradas
+    entre os arquivos e as mudanças de um arquivo para o outro. 
+
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+	Ter acesso a todo o histórico me da uma vantagem que é conhecer todas as mudanças pertinentes aquele projeto,
+	conhecendo todas as mudanças daquele projeto eu tenho um vislumbre maior do que deu certo, do que não deu certo,
+	e o que pode ser acrescentado ou retirado.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+ 	Depende muito da forma como você vai realizar esse commit, e em que parâmetros você irá trabalhar, no google docs
+ 	a ideia funciona pois ele não funciona com codigo especificamente, então a ideia de salvar automaticamente é interessante, entretanto, se essa ideia fosse feita para código já não seria tão interessante assim , visto que salvar
+ 	cada minima alteração no código como um commit diferente acabaria por gerar commits demais e que não gerariam nada, por outro lado, quando você usa-se de commits manuais, a vantagem é que vc pode faze-los onde estiver, online ou offline, e isso é muito bom, entretanto o trabalho para realiza-los é desvantajoso caso o tamanho do projeto seja muito grande.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+	Para alguns sistemas de versão o commit de varios arquivos é altamente importante pois muitos arquivos trabalham como unidade, ou seja, um precisa do outro, enquanto o docs não necessariamente precisa disso pois cada documento trabalha perfeitamente sozinho.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+	o git log serve para vc verificar todos os commits que aconteceram ate então dentro do repositorio , muito importante para quando você quer fazer um triagem dos commits, o git diff é muito bom para verificar onde possivelmente se instalou um bug no sistema e checando alterações entre dois commits.
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+	
+	Usando a ideia de branchs você pode muito bem trabalhar todo o sistema sem alterar a versão principal, ou seja, o master que é a versão principal fica la e os branchs que vão ser alterados, isso da uma segurança muito grande na hora de trabalhar e testar novas ideias.
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+	Para ter mais controle sobre as minha ações dentro da minha estação de trabalho, e como pre requisito da cadeira eu necessito usar o git.
