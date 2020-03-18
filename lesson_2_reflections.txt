@@ -1,0 +1,3 @@
+Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+
+A area de preparação pode ser usada para realizar commits separados, ao garantir que você pode adicionar separadamente cada arquivo, o controle gerado dentro da area de preparação é incrivel, bem como você pode tratar diferenças entre um arquivo dentro da area de preparação e um dentro do repositorio.
