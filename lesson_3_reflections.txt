@@ -18,3 +18,7 @@ O beneficio é que os dois repositorios estarão up-to-date, ou seja, se os dois
 Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
 
 eu colaboraria usando Github, no começo é complicado visto a dificuldade de alguns conceitos e entender toda a base, entretanto quando você o entende a ideia fica simples e o ganho de tempo é bem maior. colaborar sem usar o git é uma opção, mas quando vc trabalha com codigo essa opção não é adequada.
+
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+
+Quando eu preciso do feedback de outras pessoas para poder confirmar minhas alterações, as vezes erros passam despercebidos ou algo que eu fiz não necessariamente esta correto, antes de confirmar uma alteração no master que pode gerar um gargalo, eu peço opiniões dos outros colaboradores e ai sim faço um merge.
