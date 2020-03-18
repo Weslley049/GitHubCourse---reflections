@@ -10,3 +10,7 @@ Ao efetuar o pull eu garanto que tanto o repositorio remoto, quanto o repositori
 Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
 
 bifurcação é algo especifico do github, muito parecido com um clone do git entretanto a diferença é que ele faz um fork diretamente para sua pagina no github, clone é o ato de clonar genuinamente um repositorio e caso voce use de um git remote ele estará apontando diretamente de onde vc realizou a clonagem, o branche nada mais é que uma nova saida para realização de atividades extras.
+
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+
+O beneficio é que os dois repositorios estarão up-to-date, ou seja, se os dois estão sincronizados então a probabilidade de ocorrer alguma falha frente a commits de varias pessoas diferentes é menor
