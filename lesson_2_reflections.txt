@@ -1,3 +1,19 @@
 Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
 
 A area de preparação pode ser usada para realizar commits separados, ao garantir que você pode adicionar separadamente cada arquivo, o controle gerado dentro da area de preparação é incrivel, bem como você pode tratar diferenças entre um arquivo dentro da area de preparação e um dentro do repositorio.
+
+Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+
+Branchs são uteis quando eu quero testar novas funcionalidades ou alterar uma grande parcela de codigo importante dentro do meu codigo, alguns programadores com receio de acabar gerando um crash no programa e percas  para empresa ficam receosos de trabalhar diretamente com o master que inclusive é uma má pratica, uma alternativa a isso é criar branchs, criando um branch não só você se vê livre de problemas com o master mas pode testar novas funcionalidades e afins.
+
+Como os diagramas ajudam a visualizar a estrutura de branches?
+
+Com os diagramas é mais facil enxergar quais commits serão vistos e quais não serão evitando assim algum erro que pode acontecer, é importante também para ter controle do que você quer ou não no seu sistema naquele exato momento.
+
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+
+O resultado é um commit que contém todos os commits anteriores de ambos os branchs(normalmente o master e algum branch),  onde o ultimo commit realizado vai conter uma referencia do branch maior que por sua vez vai conter uma referencia a todos os commits dos dois branchs.
+
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+
+Uma mesclagem automatica pode ser interessante dependendo do caso, entretanto com codigos isso não funciona tão bem, pois pode ocorrer problemas de incosistencia ou ambiguidade entre dois arquivos com o mesmo nome por exemplo, o que seria infrutifero e ate mais trabalhoso para os programadores.
