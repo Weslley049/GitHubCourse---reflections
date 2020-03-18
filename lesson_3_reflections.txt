@@ -7,3 +7,6 @@ Por que você prefere efetuar pull de alterações manualmente do que deixar o G
 Ao efetuar o pull eu garanto que tanto o repositorio remoto, quanto o repositorio local estão iguais, isso facilita meu trabalho pois além de eu ter duas estações de trabalho prontas uma para quando eu ter internet e outra para quando eu nao estiver não à risco de conflitos entre repositorios.
 
 
+Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+
+bifurcação é algo especifico do github, muito parecido com um clone do git entretanto a diferença é que ele faz um fork diretamente para sua pagina no github, clone é o ato de clonar genuinamente um repositorio e caso voce use de um git remote ele estará apontando diretamente de onde vc realizou a clonagem, o branche nada mais é que uma nova saida para realização de atividades extras.
