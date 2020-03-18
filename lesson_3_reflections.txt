@@ -14,3 +14,7 @@ bifurcação é algo especifico do github, muito parecido com um clone do git en
 Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
 
 O beneficio é que os dois repositorios estarão up-to-date, ou seja, se os dois estão sincronizados então a probabilidade de ocorrer alguma falha frente a commits de varias pessoas diferentes é menor
+
+Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+
+eu colaboraria usando Github, no começo é complicado visto a dificuldade de alguns conceitos e entender toda a base, entretanto quando você o entende a ideia fica simples e o ganho de tempo é bem maior. colaborar sem usar o git é uma opção, mas quando vc trabalha com codigo essa opção não é adequada.
